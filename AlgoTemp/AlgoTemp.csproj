@@ -10,9 +10,9 @@
 	<Company>Algo</Company>
 	<Description>A sample .NET library for NuGet publishing</Description>
 	<PackageTags>dotnet library nuget</PackageTags>
-	<RepositoryUrl>https://github.com/YourName/MyLibrary</RepositoryUrl>
+	<RepositoryUrl>https://github.com/00009294/AlgoTemp</RepositoryUrl>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
-	<PackageProjectUrl>https://github.com/YourName/MyLibrary</PackageProjectUrl>
+	<PackageProjectUrl>https://github.com/00009294/AlgoTemp</PackageProjectUrl>
 
   </PropertyGroup>
 
