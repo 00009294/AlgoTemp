@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	<PackageId>AlgoTemp</PackageId>
+	<PackageId>AlgoTempByJavlonbek</PackageId>
 	<Version>1.0.0</Version>
 	<Authors>Algo</Authors>
 	<Company>Algo</Company>
@@ -13,7 +13,6 @@
 	<RepositoryUrl>https://github.com/00009294/AlgoTemp</RepositoryUrl>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<PackageProjectUrl>https://github.com/00009294/AlgoTemp</PackageProjectUrl>
-
   </PropertyGroup>
 
 </Project>
